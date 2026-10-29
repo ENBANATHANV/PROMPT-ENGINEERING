@@ -1,5 +1,7 @@
 # Ex-1 Comprehensive Report on the Fundamentals of Generative AI and Large Language Models
 
+#### NAME : ENBANATHAN V
+#### REG NO : 212224220027
 
 # Aim:	Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
 Experiment:
