@@ -1,3 +1,6 @@
+# Ex-1 Comprehensive Report on the Fundamentals of Generative AI and Large Language Models
+
+
 # Aim:	Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
 Experiment:
 Develop a comprehensive report for the following exercises:
@@ -447,36 +450,9 @@ Understanding these differences helps us choose suitable architectures for appli
 
 A technical guide covering the four cornerstone architectures powering modern Generative Artificial Intelligence: **Variational Autoencoders (VAEs)**, **Generative Adversarial Networks (GANs)**, **Diffusion Models**, and **Transformers**.
 
----
 
-#### Table of Contents
+<img width="837" height="475" alt="image" src="https://github.com/user-attachments/assets/06db5588-6cfb-4bf6-b4ae-ba1c9118830d" />
 
-- [Architectural Overview](#architectural-overview)
-- [1. Variational Autoencoders (VAEs)](#1-variational-autoencoders-vaes)
-  - [Intuition](#intuition)
-  - [How It Works](#how-it-works)
-  - [Mathematical Formulation](#mathematical-formulation)
-  - [Trade-offs & Use Cases](#trade-offs--use-cases)
-- [2. Generative Adversarial Networks (GANs)](#2-generative-adversarial-networks-gans)
-  - [Intuition](#intuition-1)
-  - [How It Works](#how-it-works-1)
-  - [Mathematical Formulation](#mathematical-formulation-1)
-  - [Trade-offs & Use Cases](#trade-offs--use-cases-1)
-- [3. Diffusion Models](#3-diffusion-models)
-  - [Intuition](#intuition-2)
-  - [How It Works](#how-it-works-2)
-  - [Mathematical Formulation](#mathematical-formulation-2)
-  - [Trade-offs & Use Cases](#trade-offs--use-cases-2)
-- [4. Transformers](#4-transformers)
-  - [Intuition](#intuition-3)
-  - [How It Works](#how-it-works-3)
-  - [Mathematical Formulation](#mathematical-formulation-3)
-  - [Trade-offs & Use Cases](#trade-offs--use-cases-3)
-- [Comparative Architectural Matrix](#comparative-architectural-matrix)
-- [Modern Hybrid Pipelines](#modern-hybrid-pipelines)
-- [Contributing & License](#contributing--license)
-
----
 
 #### Architectural Overview
 
@@ -1945,4 +1921,16 @@ Here is how a real user query transitions through the model pipeline:
 
 ---
 
-# Result
+## Comparison of ChatGPT and Gemini
+
+| Criteria | ChatGPT | Gemini |
+|---|---|---|
+| Accuracy | Provides clear and relevant answers with good explanations. | Provides informative answers but may sometimes include inaccuracies. |
+| Creativity | Generates creative ideas, examples, and well-structured content. | Generates creative ideas with detailed and diverse explanations. |
+| Hallucination | May generate incorrect information, so verification is necessary. | May also generate incorrect information, so verification is necessary. |
+| Reasoning | Explains concepts step by step in a structured and understandable manner. | Provides detailed reasoning and technical explanations. |
+| Speed | Generates responses quickly and efficiently. | Generates responses quickly, depending on task complexity and system load. |
+
+### Result :
+
+Based on this comparison, ChatGPT is preferred for its clear explanations, structured responses, and student-friendly presentation. However, both ChatGPT and Gemini have strengths and limitations, and their performance may vary depending on the prompt and task. Accuracy and reasoning should be evaluated using the actual outputs rather than assumed in advance.
